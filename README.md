@@ -1,4 +1,7 @@
 # fsociety-mint
+
+# <!> WARNING <!> THIS REPO CONTAINS ANSWERS. DO NOT CHEAT. YOU WILL SUCK IN ROUND.
+
 Mr. Robot themed Linux Mint 2021 CyberPatriot training image. 
 
 ```
