@@ -75,4 +75,5 @@ echo " "
 
 check_text_exists "/home/elliot_a/Desktop/Forensics_1.txt" "hidden_module.ko" "Forensics 1 - Part 1"
 check_text_exists "/home/elliot_a/Desktop/Forensics_1.txt" ".fsociety" "Forensics 1 - Part 2"
-
+check_text_exists "/home/elliot_a/Desktop/Forensics_2.txt" "/var/spool/cron/crontabs/" "Forensics 2 - Part 1"
+check_text_exists "/home/elliot_a/Desktop/Forensics_2.txt" "tyr3ll" "Forensics 2 - Part 2"
