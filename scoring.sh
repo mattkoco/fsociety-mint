@@ -72,6 +72,5 @@ check_file_permissions() {
 echo " "
 echo "fsociety"
 echo " "
-curl http://0w.nz/fsociety.ascii
 
 
