@@ -28,10 +28,10 @@
    - Username: **r00t**  
 
 2. **002**  
-   - Username: **Whiterose**
+   - Username: **whiterose**
     
 3. **003**  
-   - Username: **DarkArmy**  
+   - Username: **darkarmy**  
 
 4. **004**  
    - Username: **tyr3ll**  
