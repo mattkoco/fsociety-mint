@@ -84,3 +84,5 @@ check_text_not_exists "/etc/passwd" "whiterose" "Removed Unauthorized user"
 check_text_not_exists "/etc/passwd" "darkarmy" "Removed Unauthorized user"
 check_text_not_exists "/etc/passwd" "tyr3ll" "Removed Unauthorized user"
 
+#other
+check_file_deleted "/home/elliot_a/Documents/creds.csv" "Deleted plaintext credentials file"
