@@ -73,4 +73,6 @@ echo " "
 echo "fsociety"
 echo " "
 
+check_text_exists "/home/elliot_a/Desktop/Forensics_1.txt" "hidden_module.ko" "Forensics 1 - Part 1"
+check_text_exists "/home/elliot_a/Desktop/Forensics_1.txt" ".fsociety" "Forensics 1 - Part 2"
 
