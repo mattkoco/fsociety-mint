@@ -23,7 +23,7 @@
    - Username: **mobley**  
    - Example Password: `gu1ltysp4rk`
 
-### **Unauthorized Users:**
+### **Unauthorized Users (password for all is unauthorized):**
 1. **001**  
    - Username: **r00t**  
 
